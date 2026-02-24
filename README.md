@@ -1,7 +1,5 @@
 # Orbito_Fundamentos_da_Programacao_FP
 
-Este foi o meu segundo contacto com a programação. Contém alguns erros de implementação.
-
 **Orbito-n - Fundamentos da Programação**
 
 Este projeto foi desenvolvido para a unidade curricular de Fundamentos da Programação (2024/25) no Instituto Superior Técnico. Trata-se de uma adaptação computacional do jogo de tabuleiro Orbito, expandida para suportar múltiplas órbitas (n).
@@ -30,3 +28,4 @@ O jogo permite jogar contra o computador em dois modos de estratégia:
 - Normal: Utiliza uma heurística que analisa o maior número de peças consecutivas (L <= k) que podem ser obtidas tanto pelo jogador como pelo adversário nas jogadas seguintes.
 
 O enunciado deste projeto está explicado mais detalhadamente no ficheiro pdf. Para o conseguir ler é necessário baixá-lo.
+Este foi o meu segundo contacto com a programação. Contém alguns erros de implementação.
