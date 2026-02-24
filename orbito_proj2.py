@@ -1,6 +1,6 @@
 # This is the Python script for your project
 
-# Segundo projeto- Orbita-n
+# Segundo projeto- Orbito-n
 
 # 2.1.1- construtor
 def cria_posicao(col, lin, verifica=True):
@@ -531,5 +531,6 @@ def verifica_linha_pedras(t, p, j, k):
 
 # obtem_pedra... > tuplo pedras
 # tuplo_pedras = tuplo_pedras[1:] + tuplo_pedras[:1]
+
 
 
